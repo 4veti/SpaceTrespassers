@@ -17,6 +17,7 @@ In the main menu contains a single **Play** button. Below it there are simple in
 7. The enemies' spacing adjusts at the game's launch to accomodate different screen sizes.
 
 ## **Screenshots**
+![image](https://github.com/4veti/SpaceTrespassers/assets/37193765/ba1f5903-54ca-4d0c-9aed-bc07a4e74272)
 ![image](https://github.com/4veti/SpaceTrespassers/assets/37193765/7e715519-9b7a-48d7-a641-3b8f62340c5a)
 ![image](https://github.com/4veti/SpaceTrespassers/assets/37193765/55dc5a50-89b7-42ce-8941-9db680159baf)
 ![image](https://github.com/4veti/SpaceTrespassers/assets/37193765/ecc5e9ab-001e-4950-b652-3a850b74e426)
