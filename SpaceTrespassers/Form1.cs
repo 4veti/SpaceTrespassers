@@ -12,8 +12,7 @@ public partial class Form1 : Form
     private CoreController coreController;
     private MainMenuController mainMenuController;
 
-    //private long largestElapsed;
-    private Stopwatch sw = new Stopwatch();                                                     //
+    private Stopwatch sw = new Stopwatch();                                                     
 
     public Form1()
     {
@@ -37,7 +36,6 @@ public partial class Form1 : Form
     {
         this.WindowState = FormWindowState.Maximized;
         InitializeMainMenu();
-        //benchmark.Visible = true;                                                             //
     }
 
     /// <summary>
@@ -47,22 +45,8 @@ public partial class Form1 : Form
     /// </summary>
     private void MainGameTimerEvent(object sender, EventArgs e)
     {
-        //sw.Start();                                                                           //
-
         coreController.MainLogic();
         ResolveCollisions();
-
-        //sw.Stop();                                                                            //
-        //if (sw.ElapsedMilliseconds > 20)                                                      //
-        //{                                                                                     //
-        //    if (sw.ElapsedMilliseconds > largestElapsed)                                      //
-        //    {                                                                                 //
-        //        largestElapsed = sw.ElapsedMilliseconds;                                      // Benchmarking
-        //    }                                                                                 //
-        //}                                                                                     //
-        //                                                                                      //
-        //benchmark.Text = $"Elapsed: {sw.ElapsedMilliseconds}ms, largest: {largestElapsed}";   //
-        //sw.Reset();                                                                           //
     }
 
     /// <summary>
