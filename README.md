@@ -21,3 +21,4 @@ In the main menu contains a single **Play** button. Below it there are simple in
 ![image](https://github.com/4veti/SpaceTrespassers/assets/37193765/55dc5a50-89b7-42ce-8941-9db680159baf)
 ![image](https://github.com/4veti/SpaceTrespassers/assets/37193765/ecc5e9ab-001e-4950-b652-3a850b74e426)
 ![image](https://github.com/4veti/SpaceTrespassers/assets/37193765/b580adf2-b934-4240-ba04-db57c52ae9d5)
+![image](https://github.com/4veti/SpaceTrespassers/assets/37193765/ac5f3af3-9ba1-4f85-b624-0255c34e0b93)
