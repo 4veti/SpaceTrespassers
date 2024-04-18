@@ -33,7 +33,5 @@ In the main menu contains a single **Play** button. Below it there are simple in
 - Paused screen:
 ![image](https://github.com/4veti/SpaceTrespassers/assets/37193765/b580adf2-b934-4240-ba04-db57c52ae9d5)
 
-- Showcasing how level generation works. There are 3 rows for enemies to spawn with 14 places in each row:
-![level_showcase](https://github.com/4veti/SpaceTrespassers/assets/37193765/6c6e828f-6a4a-4a7e-b4a8-cc61370c0cbc)
-
-
+- Showcasing how level generation works. There are 3 rows for enemies to spawn with 14 places in each row. This is the 2nd playable level:
+![level_showcase](https://github.com/4veti/SpaceTrespassers/assets/37193765/120e6570-af28-4f85-b5b4-db8c30aeb7b5)
